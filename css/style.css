@@ -1,0 +1,13 @@
+#estrellaFugaz{
+    height: 50px;
+    width: 50px;
+}
+
+body{
+    background-color: rgb(10, 1, 26);
+    text-align: center;
+}
+
+h1{
+    color: white;
+}
