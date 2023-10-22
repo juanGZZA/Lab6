@@ -21,7 +21,7 @@ body{
     background-size: cover;
 }
 
-h1, h3, p, li, h5{
+h1, h5, p, li{
     color: white !important;
 }
 
@@ -123,6 +123,10 @@ hr{
 
 .carta{
     background-color: rgb(97, 3, 99);
+}
+h3{
+    font-family: sans-serif;
+    color:blueviolet
 }
 
 
