@@ -74,7 +74,15 @@ h1, h3, p, li, h5{
 }
 
 p{
-    margin: 10px !important;
+    margin: 10px;
+}
+
+.accordion-body p{
+    color: black !important;
+}
+
+.card-text{
+    color: black !important;
 }
 
 hr{
@@ -116,5 +124,7 @@ hr{
 .carta{
     background-color: rgb(97, 3, 99);
 }
+
+
 
 
